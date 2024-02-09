@@ -17,6 +17,14 @@ This is a comprehensive tutorial guide and workbook on Python web scraping using
 9. Best practices and ethics
 10. Troubleshooting and debugging
 
+## Requirements
+
+You need to install required packages to run the Jupyter Notebooks. You can install the required packages using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## LICENSE
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, distribute, and share the content, provided you give appropriate credit to the original author and the source.
