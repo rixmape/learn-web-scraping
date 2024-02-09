@@ -6,15 +6,15 @@ This is a comprehensive tutorial guide and workbook on Python web scraping using
 
 ## Outline
 
-1. Introduction to web scraping
-2. Basics of HTML and CSS
-3. Fetching web page content
-4. Parsing HTML with BeautifulSoup
-5. Scraping synamic content with Selenium
-6. Handling pagination and navigation
-7. Data cleaning and storage
-8. Best practices and ethics
-9. Troubleshooting and debugging
+- [X] [Introduction to web scraping](01-introduction.ipynb)
+- [X] [Basics of HTML and CSS](02-basics-of-html-and-css.ipynb)
+- [X] [Fetching web page content](03-fetching-web-page-content.ipynb)
+- [ ] Parsing HTML with BeautifulSoup
+- [ ] Scraping synamic content with Selenium
+- [ ] Handling pagination and navigation
+- [ ] Data cleaning and storage
+- [ ] Best practices and ethics
+- [ ] Troubleshooting and debugging
 
 ## Usage
 
