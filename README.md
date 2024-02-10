@@ -19,37 +19,55 @@ This is a comprehensive tutorial guide and workbook on Python web scraping using
 
 The tutorial is written in Jupyter Notebooks, which are interactive and can be run in a web browser. You can run the notebooks on your local machine by following these steps:
 
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine:
 
     ```bash
     git clone https://github.com/rixmape/learn-web-scraping
     ```
 
-2. Change into the project directory
+2. Change into the project directory:
 
     ```bash
     cd learn-web-scraping
     ```
 
-3. Install the required packages using pip
+3. Create a virtual environment:
+
+    ```bash
+    python -m venv venv
+    ```
+
+4. Activate the virtual environment. On Windows, run:
+
+    ```cmd
+    .\venv\Scripts\activate
+    ```
+
+    On Unix or MacOS, run:
+
+    ```bash
+    source venv/bin/activate
+    ```
+
+5. Install the required packages using `pip`:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Start the Jupyter Notebook server
+6. Start the Jupyter Notebook server:
 
     ```bash
     jupyter notebook
     ```
 
-5. Open the notebook in your web browser and start learning
+7. Open the notebook in your web browser and start learning
 
     ```bash
     http://localhost:8888/tree
     ```
 
-6. Select the notebook you want to run and start learning. Learn more about Jupyter Notebooks [here](https://docs.jupyter.org/en/latest/).
+8. Select the notebook you want to run and start learning. Learn more about Jupyter Notebooks [here](https://docs.jupyter.org/en/latest/).
 
 ## LICENSE
 
